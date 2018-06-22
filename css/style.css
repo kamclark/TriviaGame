@@ -1,0 +1,22 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-bottom: 60px;
+}
+
+.card-title {
+  font-family: cursive;
+  color: purple;
+  font-style: strong;
+}
+
+h1{
+  color: red;
+  height: auto;
+  padding: 5px 5px 5px 5px;
+
+}
